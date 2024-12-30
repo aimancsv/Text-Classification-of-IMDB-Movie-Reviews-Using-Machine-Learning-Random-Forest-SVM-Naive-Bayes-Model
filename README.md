@@ -1,0 +1,2 @@
+# Text-Classification-of-IMDB-Movie-Reviews-Using-Machine-Learning-Random-Forest-SVM-Naive-Bayes-Model
+This repository dives into supervised machine-learning techniques for text classification, with a focus on sentiment analysis. Leveraging powerful algorithms, exploratory data analysis (EDA), and model evaluation techniques, this aims to develop robust predictive models for text-based classification tasks.
